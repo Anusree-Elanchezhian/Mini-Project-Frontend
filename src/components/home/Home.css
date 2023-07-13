@@ -1,0 +1,36 @@
+.scroll{
+    text-align: center;
+    background-image: url('https://res.cloudinary.com/ddlw9iej1/image/upload/v1689132099/18938589_v1016-a-09_b7pcud.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+.quotes
+{
+    padding: 20px;
+}
+h1
+{
+    text-align: left;
+}
+.author{
+    padding-right: 20%;
+    text-align: right;
+}
+button[type='submit'] 
+{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: #8b8b8b;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+button:hover
+{
+    background-color: #535353;
+    text-decoration: none;
+}
